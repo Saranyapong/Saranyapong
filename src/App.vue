@@ -2,9 +2,10 @@
   <div id="app">
     <nav class="navbar navbar-inverse">
       <ul class="nav navbar-nav">
-        <li class=""><a href="/login">Home</a></li>
-        <li class=""><a href="/about">About</a></li>
-        <li class=""><a href="/bookmark">Bookmarks</a></li>
+        <li class="router-link-exact-active router-link-active"><a href="#/"><span class="glyphicon glyphicon-home"></span></a></li>
+        <li class=""><a href="#/login">Home</a></li>
+        <li class=""><a href="#/about">About</a></li>
+        <li class=""><a href="#/bookmark">Bookmarks</a></li>
       </ul>
     </nav>
     <img src="./assets/logo.png" width="100" height="100">
