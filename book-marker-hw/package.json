@@ -1,5 +1,5 @@
 {
-  "name": "book-marker",
+  "name": "book-marker-hw",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "",
@@ -13,10 +13,6 @@
     "test": "npm run unit && npm run e2e"
   },
   "dependencies": {
-    "firebase": "^4.6.1",
-    "firebaseui": "^2.4.1",
-    "md5": "^2.2.1",
-    "vee-validate": "^2.0.0-rc.21",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
