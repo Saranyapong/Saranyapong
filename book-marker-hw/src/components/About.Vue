@@ -1,6 +1,6 @@
 <template>
     <div class='about'>
-        <h1 style="font-size:36px;">ABOUT</h1>
+        <h1 style="font-size:36px;">ABOUT ME</h1>
         <p style="font-size:24px;">Saranyapong Tarama</p>
         <p style="font-size:24px;">560610175</p>
     </div>
