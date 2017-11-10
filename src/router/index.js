@@ -40,7 +40,7 @@ export default new Router({
       component: Signup2
     },
     {
-      path: '*', 
+      path: '#', 
       redirect: { name: 'Login'}
     },
     {
